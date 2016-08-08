@@ -1,0 +1,6 @@
+A long time ago in a galaxy far far away
+A long time ago in a galaxy far far_away
+A long time ago in a galaxy far far away
+A long_time ago in a galaxy far far away
+A long time ago in a galaxy far far away
+A long time ago in a_galaxy far far away
